@@ -1,1 +1,3 @@
-# maven
+### maven market analysis
+## Project Aim
+The aim of the project is to ..............................................
